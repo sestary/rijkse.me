@@ -28,8 +28,8 @@ languages:
                 - name: About 
                   url: about
                   weight: 10
-                - name: Projects
-                  url: search/
+                - name: Blog 
+                  url: blog/
                   weight: 5
                             
 outputs:
